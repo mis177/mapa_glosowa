@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZadanieDodatkowe</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="address_message">Podaj adres</string>
+    <string name="address_error">Nie znaleziono adresu!</string>
+</resources>
